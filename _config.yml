@@ -15,8 +15,9 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.fangaso.com
 root: /
-permalink: :id.html
+permalink: :name.html
 permalink_defaults:
+pretty_urls.trailing_html: true
 
 # Directory
 source_dir: source
