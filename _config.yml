@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: 梵加索博客
+subtitle: 大胆试试吧！
+description: 梵加索的博客是一个好地方！
+keywords: 梵加索,梵加索博客,梵加索的博客
+author: 梵加索
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.fangaso.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
