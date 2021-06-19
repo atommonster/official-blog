@@ -1,5 +1,6 @@
 ---
 title: Hello World | 你好，世界
+date: 2013-07-14 17:01:34
 ---
 
 # 欢迎来到 [梵加索博客](https://blog.fangaso.com/)！ 
