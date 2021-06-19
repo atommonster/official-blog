@@ -1,39 +1,13 @@
 ---
-title: Hello World
+title: Hello World | 你好，世界
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# 欢迎来到 [梵加索博客](https://blog.fangaso.com/)！ 
 
-## Quick Start
+这是我的第一篇文章。经历了无数次的改版重做，终于找到了一种适合自己的方式，能够把心思全部放在写作上，不用去做那些繁重的运维工作了！
 
-### Create a new post
+如果你也想拥有一个这样的网站，可以去看看[详细的搭建教程](https://blog.fangaso.com)。
 
-```bash
-$ hexo new "My New Post"
-```
+------
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-```bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+![](C:\Users\Administrator\Downloads\pexels-pixabay-459225.jpg)
