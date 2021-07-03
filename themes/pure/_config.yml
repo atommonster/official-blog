@@ -124,8 +124,8 @@ comment:
     owner: fangaso #必须. GitHub repository 所有者，可以是个人或者组织。
     admin: fangaso #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
     repo: talk #必须. GitHub repository.
-    ClientID: 5a1679f74549de157abb #必须. GitHub Application Client ID.
-    ClientSecret: 04d7f71fce30cf712174b40fd917bed26daaebe1 #必须. GitHub Application Client Secret.
+    ClientID: 84cd38d443e5fa79493b #必须. GitHub Application Client ID.
+    ClientSecret: 7a206b90270341a70e90885ffc6cbd0d772b55cf #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
     appid: Nt5UNK6pr7g2JJeu5LtCEy0J-MdYXbMMI # your leancloud application appid
     appkey: Lyi99MjUXL4GVBg6peqDkLa9 # your leancloud application appkey
