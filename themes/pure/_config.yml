@@ -130,7 +130,7 @@ comment:
     appid: Nt5UNK6pr7g2JJeu5LtCEy0J-MdYXbMMI # your leancloud application appid
     appkey: Lyi99MjUXL4GVBg6peqDkLa9 # your leancloud application appkey
     notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-    verify: false # Verification code
+    verify: true # Verification code
     placeholder: 说点什么吧 # comment box placeholder
     avatar: mm # gravatar style
     meta: nick,mail,link # custom comment header
