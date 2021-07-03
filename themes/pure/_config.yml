@@ -159,9 +159,9 @@ pv:
   busuanzi:
     enable: false  # 不蒜子统计
   leancloud:
-    enable: false  # leancloud统计
-    app_id: # leancloud <AppID>
-    app_key: # leancloud <AppKey>
+    enable: true  # leancloud统计
+    app_id: Nt5UNK6pr7g2JJeu5LtCEy0J-MdYXbMMI # leancloud <AppID>
+    app_key: Lyi99MjUXL4GVBg6peqDkLa9 # leancloud <AppKey>
         
 # wordcount
 postCount:
@@ -191,7 +191,7 @@ profile:
   author_title: 码农
   author_description: 个人简介。
   location: 中国山东菏泽市曹县
-  follow: https://github.com/cofess
+  follow: https://blog.fangaso.com
   # Social Links
   social:
     links:
