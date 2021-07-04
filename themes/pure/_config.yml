@@ -1,4 +1,4 @@
-# menu
+# menu 菜单
 menu:
   Home: .
   Archives: archives  # 归档
@@ -53,7 +53,7 @@ pagination:
   next:
     alwayShow: true
 
-# Sidebar
+# Sidebar 
 sidebar: right
 widgets:
   - board  
