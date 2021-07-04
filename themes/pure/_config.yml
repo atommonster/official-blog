@@ -53,7 +53,7 @@ pagination:
   next:
     alwayShow: true
 
-# Sidebar 
+# Sidebar 边栏
 sidebar: right
 widgets:
   - board  
