@@ -68,7 +68,6 @@ pagination_dir: page
 # Extensions 扩展
 theme: pure
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
+# Deployment 部署
 deploy:
   type:
