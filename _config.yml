@@ -1,4 +1,4 @@
-# Site
+# Site 站点
 title: 梵加索博客
 subtitle: 大胆试试吧！
 description: 梵加索的博客是一个好地方！
@@ -7,13 +7,13 @@ author: 梵加索
 language: zh-CN
 timezone: Asia/Shanghai
 
-# URL
+# URL 链接
 url: https://blog.fangaso.com
 root: /
 permalink: :hash.html
 permalink_defaults:
 
-# Directory
+# Directory 目录
 source_dir: source
 public_dir: public
 tag_dir: tags
@@ -23,7 +23,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-# Writing
+# Writing 撰写
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
@@ -39,7 +39,7 @@ highlight:
   auto_detect: false
   tab_replace:
   
-# Home page setting
+# Home page setting 
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
